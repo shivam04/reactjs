@@ -6,3 +6,7 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-08-07T11:42:15.222Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2020-08-07T11:48:17.951Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-08-07T11:48:17.969Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-08-07T17:19:54.310Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-08-07T17:19:54.329Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-08-07T17:51:55.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-08-07T17:51:55.706Z"}
